@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/image">
+        <file alias="file_flag">image/file_pic.jpg</file>
+        <file alias="lufy">image/lufy.jpg</file>
+    </qresource>
+</RCC>
